@@ -3,13 +3,13 @@
 
 ## Overview
 
-This project showcases an in-depth analysis of pizza sales data, transforming raw data into meaningful insights. The analysis covers monthly revenue, pizza performance, peak sales times, and order frequency. The final dashboard, built in Power BI, offers an interactive view with a slicer for monthly filtering and various visualizations to understand sales patterns.
+This project showcases an in-depth analysis of pizza sales data, transforming raw data into meaningful insights. The analysis covers monthly revenue, pizza performance, peak sales times, and order frequency. The final dashboard, built in Excel , offers an interactive view with a slicer for monthly filtering and various visualizations to understand sales patterns.
 
 ## Project Workflow
 
 1. **Data Cleaning**: Cleaned the raw data using Excel and the Pandas library in Python.
 2. **SQL Integration**: Imported the cleaned data into SQL, where queries were executed to validate and cross-check with Excel pivot table calculations.
-3. **Dashboard Creation**: Designed an interactive Power BI dashboard with dynamic monthly sales analysis.
+3. **Dashboard Creation**: Designed an interactive Excel dashboard with dynamic monthly sales analysis.
 
 ## Dashboard Insights
 
@@ -30,7 +30,7 @@ This project showcases an in-depth analysis of pizza sales data, transforming ra
 - **Excel**: Used for initial data cleaning and pivot table analysis.
 - **Python (Pandas)**: Applied for efficient data cleaning and manipulation.
 - **SQL**: Used to query data and verify accuracy against Excel results.
-- **Power BI**: Built an interactive, user-friendly dashboard for analysis.
+- **Excel**: Built an interactive, user-friendly dashboard for analysis.
 
 ## How to Use
 
